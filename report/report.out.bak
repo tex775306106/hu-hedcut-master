@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Summary of the two methods}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{hedcuter method}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Voronoi diagram and Centroidal Voronoi tessellation}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{stippling}{subsection.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.2}{voronoi method}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Centroidal Voronoi tessellation}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.2}{stippling}{subsection.1.2}% 7
+\BOOKMARK [1][-]{section.2}{Comparison of the two methods}{}% 8
+\BOOKMARK [1][-]{section.3}{Improvement of hedcuter method}{}% 9
